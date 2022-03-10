@@ -1,8 +1,8 @@
 # CherryBlossomDates
-Predicting the dates of cherry blossom based on temperature with Deep Learning and GBRegression
+Predicting the dates of cherry blossom based on temperature with Deep Learning and GBRegression.
 
 In this project the goal is to predict the begin, the height and the end of the cherry blossom season for Hirosaki Park in Aomori prefecture, Japan. 
-The development of the blossoms is highly depending on the temperature in the weeks preceding the begin of the season. For this project folowwing data was used:
+The development of the blossoms is highly depending on the temperature in the weeks preceding the begin of the season. For this project folowing data was used:
 
 https://www.kaggle.com/akioonodera/temperature-and-flower-status
 
